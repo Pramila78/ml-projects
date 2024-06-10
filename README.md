@@ -1,1 +1,1 @@
-# ml-projects
+# basic-ml-projects
